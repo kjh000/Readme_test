@@ -11,3 +11,11 @@
 - 원숭이
 
 [바다를 갈라요] (https://github.com/kjh000)
+
+```
+    let myName = '김구라';
+
+    function test(){
+        consol.log("hello");
+    }
+```
